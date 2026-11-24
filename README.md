@@ -1,16 +1,46 @@
-## Hi there 👋
 
-<!--
-**priyanshijeenwal01-rgb/priyanshijeenwal01-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Priyanshi Jeenwal 👋
 
-Here are some ideas to get you started:
+### Full Stack Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a passionate Full Stack Web Developer interested in building modern, responsive and user-friendly web applications.
+
+I enjoy creating websites and learning new technologies.
+
+## 💻 Technical Skills
+
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+- Laravel
+- MySQL
+- Bootstrap
+- Responsive Web Design
+
+## 🚀 My Projects
+
+### 1. NexaCart
+E-commerce website with modern shopping features.
+
+### 2. BarberQueue Pro
+Barbershop walk-in check-in and queue management system.
+
+### 3. Premium E-Commerce Website
+Modern and responsive online shopping website.
+
+## 🎯 My Goals
+
+- Build professional web applications.
+- Improve my Full Stack Development skills.
+- Work on real-world projects.
+- Collaborate with clients and developers.
+
+## 📫 Contact Me
+
+- Email: priyanshijeenwal01@gmail.com
+- GitHub: https://github.com/priyanshijeenwal01-rgb
+
+---
+
+⭐ Thank you for visiting my profile!
